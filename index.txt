@@ -181,7 +181,7 @@
     <h3>Principal Sponsors</h3>
     <p>Mr. Eduardo Nuñez & Mrs. Emelinda Nuñez</p>
     <p>Mr. Hector Gille & Mrs. Marilou Gille</p>
-    <p>Mr. Ron Velasco & Mrs. Dearly Velasco</p>
+    <p>Mr. Ronald Velasco & Mrs. Ederly Velasco</p>
 
     <h3>Best Man</h3>
     <p>Mr. John Russel L. Regondola</p>
@@ -262,3 +262,4 @@
 
 </body>
 </html>
+
