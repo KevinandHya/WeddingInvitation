@@ -179,15 +179,15 @@
     <p>Gloria L. Tabuzo</p>
 
     <h3>Principal Sponsors</h3>
-    <p>Mr. Eduardo Nuñez & Mrs. Emelinda Nuñez</p>
-    <p>Mr. Hector Gille & Mrs. Marilou Gille</p>
-    <p>Mr. Ronald Velasco & Mrs. Ederly Velasco</p>
+    <p>Eduardo Nuñez & Emelinda Nuñez</p>
+    <p>Hector Gille & Marilou Gille</p>
+    <p>Ronald Velasco & MEderly Velasco</p>
 
     <h3>Best Man</h3>
-    <p>Mr. John Russel L. Regondola</p>
+    <p>John Russel L. Regondola</p>
 
     <h3>Matron of Honor</h3>
-    <p>Mrs. Nenita L. Mabini</p>
+    <p>Nenita L. Mabini</p>
 
     <h3>Other Members of the Entourage</h3>
     <p><strong>Candle Bearers</strong><br>Ely June Zabate & Honey Grace Zabate</p>
@@ -262,4 +262,5 @@
 
 </body>
 </html>
+
 
